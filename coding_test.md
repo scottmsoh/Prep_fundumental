@@ -26,13 +26,17 @@ https://www.youtube.com/watch?v=UNSPlwtZq1g
 6. Arrays & Strings
 7. Recursion
 8. Sorting
-13. Big manipulation
+13. Bit manipulation
+Stacks and Queues
+Threads & Locks
 
 * Interview topics
 1. Concurrency
 2. Object-oriented programming
 3. Knowledge-based questions,
 17. Non-technical questions
+OOD=LLD
+
 
 <Cracking the coding interview Gayle laakmann 4th edition></br>
 
