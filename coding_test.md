@@ -17,8 +17,24 @@ https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-v
 https://www.youtube.com/watch?v=UNSPlwtZq1g
 
 * Book</br>
-Programming interview explosed, secret to landing your next job 3th edition</br>
-Cracking the coding interview Gayle laakmann 4th edition</br>
+
+<Programming interview explosed, secret to landing your next job 3th edition></br>
+* Coding interview necessary topics
+1. Approaches to programming problems
+4. Linked List
+5. Tree & Graph
+6. Arrays & Strings
+7. Recursion
+8. Sorting
+13. Big manipulation
+
+* Interview topics
+1. Concurrency
+2. Object-oriented programming
+3. Knowledge-based questions,
+17. Non-technical questions
+
+<Cracking the coding interview Gayle laakmann 4th edition></br>
 
 
 
