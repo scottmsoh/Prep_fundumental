@@ -17,8 +17,8 @@ https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-v
 https://www.youtube.com/watch?v=UNSPlwtZq1g
 
 * Book</br>
-Programming interview explosed, secret to landing your next job 3th edition
-Cracking the coding interview Gayle laakmann 4th edition
+Programming interview explosed, secret to landing your next job 3th edition</br>
+Cracking the coding interview Gayle laakmann 4th edition</br>
 
 
 
